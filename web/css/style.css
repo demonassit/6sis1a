@@ -15,3 +15,7 @@ and open the template in the editor.
     size: 14px;
     justify-content: center;
 }
+div{
+    background-color: #dd0099;
+    font-size: 16px;
+}
